@@ -1,5 +1,5 @@
 function sorting(arr) {
-    let sort = [...arr].sort((a, b) => a - b);
+    let sort = arr.sort((a, b) => a - b);
 
     console.log(sort)
 }
