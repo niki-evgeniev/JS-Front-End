@@ -19,7 +19,7 @@ function calculator(firstNum, secondNum, operator) {
             result = divide(firstNum, secondNum);
             break;
     }
-    console.log(result)
+    console.log(result);
 };
 
 calculator(5,
