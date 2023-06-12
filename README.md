@@ -1,10 +1,10 @@
-# Software University - SoftUni - JS Front-End 
+# Software University - SoftUni - HTML & CSS
 
-Hello this is my homeworks and exercise from modules JS Front-End in Softuni
+Hello this is my homeworks and exercise from modules HTML & CSS in Softuni
 
 
 
-      JS Front-End - February 2023
+     HTML & CSS - January 2023
   
       1. JS Syntax Fundamentals
   
