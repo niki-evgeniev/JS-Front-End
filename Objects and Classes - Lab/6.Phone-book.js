@@ -1,8 +1,5 @@
 function phoneBook(info){
-    console.log(info);
 
-    const book = info.split(' ');
-    console.log(book);
 }
 
 phoneBook(['Tim 0834212554',
